@@ -65,7 +65,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshi2806&show_icons=true&locale=en&layout=compact" alt="sakshi2806" />
 </p> 
 <!-- <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalupadhyayrsm&show_icons=true&locale=en" alt="vishalupadhyayrsm" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshi2806&show_icons=true&locale=en" alt="sakshi2806" />
 </p> -->
 <p> &nbsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi2806&" alt="sakshi2806" />
