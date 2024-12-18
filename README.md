@@ -4,7 +4,7 @@
   <tr>
     <!-- Text Section -->
     <td>
-      Write to me => sakshim336@gmail.com <br/>
+     📩 Email me: sakshim336@gmail.com <br/>
     </td>
   </tr>
 </table>
