@@ -62,8 +62,8 @@
 </p> -->
        
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshi2806&show_icons=true&locale=en&layout=compact" alt="sakshi2806" />
-</p> 
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshi2806&show_icons=true&locale=en&layout=compact" alt="sakshi2806" /> -->
+<!-- </p>  -->
 <!-- <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshi2806&show_icons=true&locale=en" alt="vishalupadhyayrsm" />
 </p> -->
