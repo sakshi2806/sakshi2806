@@ -61,13 +61,13 @@
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
 </p> -->
        
-//<p>
-//<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshi2806&show_icons=true&locale=en&layout=compact" alt="sakshi2806" />
-//</p> 
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshi2806&show_icons=true&locale=en&layout=compact" alt="sakshi2806" />
+</p> 
 <!-- <!-- <p>&nbsp; -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshi2806&show_icons=true&locale=en" alt="vishalupadhyayrsm" />
 </p> -->
 <!-- <p> &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi2806&show_icons=true" alt="GitHub Streak Stats for sakshi2806" />
 </p> -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi2806&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
